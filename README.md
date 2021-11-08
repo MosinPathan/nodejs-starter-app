@@ -8,7 +8,7 @@ Use the NPM package manager to install this app.
 ```bash
 git clone --depth=1 https://github.com/edwinaquino/nodejs-starter-app.git
 cd nodejs-starter-app
-npm build
+npm install
 ```
 
 ## Start the server
